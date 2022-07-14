@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **joao.francapf@gmail.com**
 
-<h3 align="left">Latest projects and Analysis:</h3>
+<h3 align="left">Latest:</h3>
 
 -   [Bayes' theorem: An exploratory analysis and application of Bayes Theorem to the Olist Ecommerce dataset.](https://github.com/joaofranca13/olist-bayes)
 
