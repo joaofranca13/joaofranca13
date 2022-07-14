@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João França</h1>
-<h3 align="center">Data and Decision Science | Recife, PE, Brazil</h3>
+<h3 align="center">Recife, PE, Brazil</h3>
 
 - 🔭 I’m currently working as a **Controlling Analyst**
 
